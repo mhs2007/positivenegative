@@ -6,4 +6,4 @@ def pos(num):
     else:
         return "The Number is Zero"
     
-print("The Result is: "pos(5))
+print("The Result is: ",pos(5))
